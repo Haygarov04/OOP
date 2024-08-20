@@ -1,0 +1,14 @@
+C:\Users\velis\source\repos\StackOverflow Post\bin\Debug\net8.0\StackOverflow Post.exe
+C:\Users\velis\source\repos\StackOverflow Post\bin\Debug\net8.0\StackOverflow Post.deps.json
+C:\Users\velis\source\repos\StackOverflow Post\bin\Debug\net8.0\StackOverflow Post.runtimeconfig.json
+C:\Users\velis\source\repos\StackOverflow Post\bin\Debug\net8.0\StackOverflow Post.dll
+C:\Users\velis\source\repos\StackOverflow Post\bin\Debug\net8.0\StackOverflow Post.pdb
+C:\Users\velis\source\repos\StackOverflow Post\obj\Debug\net8.0\StackOverflow Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velis\source\repos\StackOverflow Post\obj\Debug\net8.0\StackOverflow Post.AssemblyInfoInputs.cache
+C:\Users\velis\source\repos\StackOverflow Post\obj\Debug\net8.0\StackOverflow Post.AssemblyInfo.cs
+C:\Users\velis\source\repos\StackOverflow Post\obj\Debug\net8.0\StackOverflow Post.csproj.CoreCompileInputs.cache
+C:\Users\velis\source\repos\StackOverflow Post\obj\Debug\net8.0\StackOverflow Post.dll
+C:\Users\velis\source\repos\StackOverflow Post\obj\Debug\net8.0\refint\StackOverflow Post.dll
+C:\Users\velis\source\repos\StackOverflow Post\obj\Debug\net8.0\StackOverflow Post.pdb
+C:\Users\velis\source\repos\StackOverflow Post\obj\Debug\net8.0\StackOverflow Post.genruntimeconfig.cache
+C:\Users\velis\source\repos\StackOverflow Post\obj\Debug\net8.0\ref\StackOverflow Post.dll
