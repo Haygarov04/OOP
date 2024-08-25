@@ -1,0 +1,15 @@
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\bin\Debug\net8.0\Composition-example.exe
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\bin\Debug\net8.0\Composition-example.deps.json
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\bin\Debug\net8.0\Composition-example.runtimeconfig.json
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\bin\Debug\net8.0\Composition-example.dll
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\bin\Debug\net8.0\Composition-example.pdb
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\obj\Debug\net8.0\Composition-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\obj\Debug\net8.0\Composition-example.AssemblyInfoInputs.cache
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\obj\Debug\net8.0\Composition-example.AssemblyInfo.cs
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\obj\Debug\net8.0\Composition-example.csproj.CoreCompileInputs.cache
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\obj\Debug\net8.0\Composition-example.sourcelink.json
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\obj\Debug\net8.0\Composition-example.dll
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\obj\Debug\net8.0\refint\Composition-example.dll
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\obj\Debug\net8.0\Composition-example.pdb
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\obj\Debug\net8.0\Composition-example.genruntimeconfig.cache
+C:\Users\velis\Desktop\Programing\OOP\Composition-example\obj\Debug\net8.0\ref\Composition-example.dll

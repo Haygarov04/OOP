@@ -1,0 +1,15 @@
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\bin\Debug\net8.0\Inheritance-example.exe
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\bin\Debug\net8.0\Inheritance-example.deps.json
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\bin\Debug\net8.0\Inheritance-example.runtimeconfig.json
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\bin\Debug\net8.0\Inheritance-example.dll
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\bin\Debug\net8.0\Inheritance-example.pdb
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\obj\Debug\net8.0\Inheritance-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\obj\Debug\net8.0\Inheritance-example.AssemblyInfoInputs.cache
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\obj\Debug\net8.0\Inheritance-example.AssemblyInfo.cs
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\obj\Debug\net8.0\Inheritance-example.csproj.CoreCompileInputs.cache
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\obj\Debug\net8.0\Inheritance-example.sourcelink.json
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\obj\Debug\net8.0\Inheritance-example.dll
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\obj\Debug\net8.0\refint\Inheritance-example.dll
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\obj\Debug\net8.0\Inheritance-example.pdb
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\obj\Debug\net8.0\Inheritance-example.genruntimeconfig.cache
+C:\Users\velis\Desktop\Programing\OOP\Inheritance-example\obj\Debug\net8.0\ref\Inheritance-example.dll
