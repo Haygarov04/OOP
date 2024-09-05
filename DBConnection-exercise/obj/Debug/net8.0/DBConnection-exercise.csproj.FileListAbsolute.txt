@@ -1,0 +1,15 @@
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\bin\Debug\net8.0\DBConnection-exercise.exe
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\bin\Debug\net8.0\DBConnection-exercise.deps.json
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\bin\Debug\net8.0\DBConnection-exercise.runtimeconfig.json
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\bin\Debug\net8.0\DBConnection-exercise.dll
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\bin\Debug\net8.0\DBConnection-exercise.pdb
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\obj\Debug\net8.0\DBConnection-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\obj\Debug\net8.0\DBConnection-exercise.AssemblyInfoInputs.cache
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\obj\Debug\net8.0\DBConnection-exercise.AssemblyInfo.cs
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\obj\Debug\net8.0\DBConnection-exercise.csproj.CoreCompileInputs.cache
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\obj\Debug\net8.0\DBConnection-exercise.sourcelink.json
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\obj\Debug\net8.0\DBConnection-exercise.dll
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\obj\Debug\net8.0\refint\DBConnection-exercise.dll
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\obj\Debug\net8.0\DBConnection-exercise.pdb
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\obj\Debug\net8.0\DBConnection-exercise.genruntimeconfig.cache
+C:\Users\velis\Desktop\Programing\OOP\DBConnection-exercise\obj\Debug\net8.0\ref\DBConnection-exercise.dll

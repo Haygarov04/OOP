@@ -1,0 +1,15 @@
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\bin\Debug\net8.0\Stack-Exercise.exe
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\bin\Debug\net8.0\Stack-Exercise.deps.json
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\bin\Debug\net8.0\Stack-Exercise.runtimeconfig.json
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\bin\Debug\net8.0\Stack-Exercise.dll
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\bin\Debug\net8.0\Stack-Exercise.pdb
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\obj\Debug\net8.0\Stack-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\obj\Debug\net8.0\Stack-Exercise.AssemblyInfoInputs.cache
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\obj\Debug\net8.0\Stack-Exercise.AssemblyInfo.cs
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\obj\Debug\net8.0\Stack-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\obj\Debug\net8.0\Stack-Exercise.sourcelink.json
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\obj\Debug\net8.0\Stack-Exercise.dll
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\obj\Debug\net8.0\refint\Stack-Exercise.dll
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\obj\Debug\net8.0\Stack-Exercise.pdb
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\obj\Debug\net8.0\Stack-Exercise.genruntimeconfig.cache
+C:\Users\velis\Desktop\Programing\OOP\Stack-Exercise\obj\Debug\net8.0\ref\Stack-Exercise.dll
