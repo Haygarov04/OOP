@@ -1,0 +1,15 @@
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\bin\Debug\net8.0\Interfaces-exercise.exe
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\bin\Debug\net8.0\Interfaces-exercise.deps.json
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\bin\Debug\net8.0\Interfaces-exercise.runtimeconfig.json
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\bin\Debug\net8.0\Interfaces-exercise.dll
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\bin\Debug\net8.0\Interfaces-exercise.pdb
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\obj\Debug\net8.0\Interfaces-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\obj\Debug\net8.0\Interfaces-exercise.AssemblyInfoInputs.cache
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\obj\Debug\net8.0\Interfaces-exercise.AssemblyInfo.cs
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\obj\Debug\net8.0\Interfaces-exercise.csproj.CoreCompileInputs.cache
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\obj\Debug\net8.0\Interfaces-exercise.sourcelink.json
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\obj\Debug\net8.0\Interfaces-exercise.dll
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\obj\Debug\net8.0\refint\Interfaces-exercise.dll
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\obj\Debug\net8.0\Interfaces-exercise.pdb
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\obj\Debug\net8.0\Interfaces-exercise.genruntimeconfig.cache
+C:\Users\velis\Desktop\Programing\OOP\Interfaces-exercise\obj\Debug\net8.0\ref\Interfaces-exercise.dll
