@@ -1,0 +1,4 @@
+﻿  Organisation.cpp
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\Курсови работи\Курсова работа -сем2-Нелвин\Organisation\Organisation.cpp(111): warning C4715: 'CPerson::malePaymentForMonth': not all control paths return a value
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\Курсови работи\Курсова работа -сем2-Нелвин\Organisation\Organisation.cpp(121): warning C4715: 'CPerson::femalePaymentForDay': not all control paths return a value
+  Organisation.vcxproj -> C:\Users\HP\OneDrive\Рабочий стол\Universitet\Курсови работи\Курсова работа -сем2-Нелвин\Organisation\x64\Debug\Organisation.exe

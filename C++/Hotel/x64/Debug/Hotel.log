@@ -1,0 +1,9 @@
+﻿  Hotel.cpp
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\Курсова работа -сем2\Hotel\Hotel.cpp(101,14): warning C4566: character represented by universal-character-name '\u041C' cannot be represented in the current code page (1252)
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\Курсова работа -сем2\Hotel\Hotel.cpp(101,14): warning C4566: character represented by universal-character-name '\u044A' cannot be represented in the current code page (1252)
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\Курсова работа -сем2\Hotel\Hotel.cpp(101,14): warning C4566: character represented by universal-character-name '\u0436' cannot be represented in the current code page (1252)
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\Курсова работа -сем2\Hotel\Hotel.cpp(104,14): warning C4566: character represented by universal-character-name '\u0416' cannot be represented in the current code page (1252)
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\Курсова работа -сем2\Hotel\Hotel.cpp(104,14): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\Курсова работа -сем2\Hotel\Hotel.cpp(104,14): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\Курсова работа -сем2\Hotel\Hotel.cpp(104,14): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  Hotel.vcxproj -> C:\Users\HP\OneDrive\Рабочий стол\Universitet\Курсова работа -сем2\Hotel\x64\Debug\Hotel.exe
